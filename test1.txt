@@ -5,3 +5,5 @@ git push
 modified test in git bash test1
 
 test git bash git pull
+
+test vim editor ~
