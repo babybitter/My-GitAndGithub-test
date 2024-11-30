@@ -1,0 +1,3 @@
+this file 
+touch new txt for test git bash
+let's go
